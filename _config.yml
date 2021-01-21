@@ -22,7 +22,7 @@ title: title
 email: atong2023@k12.andoverma.us
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
